@@ -8,5 +8,5 @@ services:
     restart: always
     tty: true
     ports:
-      - "12120:2120"
-      - "12121:2121"
+      - "2120:2120"
+      - "2121:2121"
